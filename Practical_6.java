@@ -20,6 +20,7 @@ class student {
 
 public class Practical_6 { 
     public static void main(String[] args) {
+        System.out.println("216090307039");
         student s1 = new student();
         s1.getdata();
         s1.display();
