@@ -20,9 +20,9 @@ public class Practical_9 {
         System.out.println("216090307039");
         student s1=new student(216090307039l,"smit");
         s1.display();
-        student s2=new student(216090307039l,"smit");
+        student s2=new student(216090307065l,"vedant");
         s2.display();
-        student s3=new student(216090307039l,"smit");
+        student s3=new student(216090307128l,"hardik");
         s3.display();
     }
 
